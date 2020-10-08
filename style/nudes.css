@@ -12,7 +12,7 @@ header{
     text-align: center;
 }
 
-header p {
+header h1 {
     font-family: Monda;
     color: white;
     background-color: red;
@@ -21,6 +21,14 @@ header p {
     font-weight: bold;
 }
 
+header p {
+    font-family: Monda;
+    color: white;
+    background-color: red;
+    border: 2px solid red;
+    font-size: 32px;
+    font-weight: bold;
+}
 main {
     text-align: center;
 }
