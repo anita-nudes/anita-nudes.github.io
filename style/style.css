@@ -60,9 +60,11 @@ footer a {
 @media screen and (max-width:768px){
     .anita-fotos{
         display: inline-block;
-        max-width: 100%;
+        text-align: center;
+        max-width: 90%;
         margin-right: -4px;
         margin-bottom: -4px;
+        margin: 5px 5%;
         padding: 20px;
     }
 }
